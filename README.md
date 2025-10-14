@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Kudaibergen</h1>
 
-<!--
-**Kudistalbekov/Kudistalbekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Developer | 3D Web Developer | JavaScript & TypeScript Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+| Category | Technologies |
+|----------|--------------|
+| Frontend | React, Next.js, TypeScript, Redux, TailwindCSS |
+| 3D Graphics | Three.js, WebGL, React Three Fiber |
+| Backend | Node.js, Express |
+| Tools | Git, Docker, Vite, Webpack |
+
+---
+
+### 🚀 Current Focus
+- Building Full-Stack Applications
+- React Performance & Patterns
+- 3D Web Experiences with Three.js
+- Next.js Advanced Features
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kudistalbekov&show_icons=true&theme=react" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kudistalbekov&layout=compact&theme=react" />
+</p>
+
+---
+
+### 🌐 Connect with me
+- LinkedIn: https://linkedin.com/in/...
+- Portfolio: https://...
+- GitHub: https://github.com/Kudistalbekov
+
+---
