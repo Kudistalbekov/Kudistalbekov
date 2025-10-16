@@ -39,6 +39,6 @@
 
 ### 🌐 Connect with me
 - LinkedIn: https://linkedin.com/in/...
-- Portfolio: https://...
+<!-- - Portfolio: https://... -->
 - Telegram: https://t.me/don_dian
 ---
