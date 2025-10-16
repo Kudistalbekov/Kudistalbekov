@@ -39,7 +39,6 @@
 
 ### 🌐 Connect with me
 - LinkedIn: https://linkedin.com/in/...
-<!-- - Portfolio: https://... -->
-- GitHub: https://github.com/Kudistalbekov
-
+- Portfolio: https://...
+- Telegram: https://t.me/don_dian
 ---
